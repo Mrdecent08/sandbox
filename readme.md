@@ -1,1 +1,1 @@
-This is a readme file for sandbox repository.
+This is a readme file for sandbox repo.
